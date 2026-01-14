@@ -69,8 +69,8 @@ console.log("ya fatima",personne2);
 
 
 
+//**je vais crée une classe                                                                                                            e */
 
+//**dans une classe il ya la "classe+propriété+méthode"/    
 
-//** ici jai mis une methode */
-
-    
+ 
